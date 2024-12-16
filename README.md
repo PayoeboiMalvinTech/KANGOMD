@@ -1,6 +1,6 @@
 ***
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN-MD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=KANGO-MD;MADE+BY+Hector+Manuel" alt="Typing SVG" /></a>
 
 ***
 
@@ -9,7 +9,7 @@
 
    </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/OfficialHectorManuel"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
@@ -17,7 +17,7 @@
 <a href="https://github.com/kingmalvn/MALVIN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/OfficialHectorManuel/KANGOMD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/kingmalvn/MALVIN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -124,7 +124,7 @@
 
 
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USIN+MALVIN+MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USIN+KANGO+MD" alt="Typing SVG" /></a>
 
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
