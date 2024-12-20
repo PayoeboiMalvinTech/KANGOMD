@@ -67,10 +67,54 @@
 <p align="left">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
 
-<p align="left">
-  <a href='https://github.com/kingmalvn/MALVIN-MD/blob/main/WORKFLOW.md' target="_blank">
-    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
-  </a>
+**. Github Workflow**
+
+
+<p align="center">
+   
+_Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it._
+
+   
+**Copy workflow deploy code below**
+
+
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
 
