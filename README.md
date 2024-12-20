@@ -13,7 +13,7 @@
 <p/> 
 
  <p align="center">
-<a href="https://github.com/OfficialHectorManuel/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
+<a href="https://github.com/OfficialHectorManuel/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialHectorManuel?color=red&style=flat-square"></a>
 <a href="https://github.com/OfficialHectorManuel/KANGOMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialHectorManuel/KANGOMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialHectorManuel/KANGOMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/KANGOMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialHectorManuel/KANGOMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialHectorManuel/KANGOMD?label=Watchers&color=blue&style=flat-square"></a>
